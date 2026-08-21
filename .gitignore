@@ -1,0 +1,40 @@
+# Build output
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.exp
+*.res
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio / Windows
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.aps
+ipch/
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Local notes, not published
+README-RESTORE.md
